@@ -1,6 +1,7 @@
 import './App.css';
 import React, { useEffect } from 'react'
 import example from "./utils/example"
+import getRandomVideoLink from "./utils/UrlGenerator"
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
   useEffect(() => {
 
     example()
+    getRandomVideoLink()
   }, [])
   return (
     <div className="App">

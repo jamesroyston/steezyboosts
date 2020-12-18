@@ -11,11 +11,22 @@ const Container = styled.div`
 `;
 
 const Cta = styled.button`
-  
-`
+  width: 150px;
+  height: 56px;
+  background-color: #0B79FB;
+  border: none;
+  border-radius: 2px;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+
+  font-size: 20px;
+`;
 
 const Home = () => {
     return <Container>
+      <Cta>
+        GET A BOOST
+      </Cta>
     </Container>
 }
 

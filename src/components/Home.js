@@ -18,7 +18,6 @@ const Cta = styled.button`
   border-radius: 2px;
   font-family: 'Poppins', sans-serif;
   color: white;
-
   font-size: 20px;
 `;
 

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/steezyboosts/static/css/main.131ef960.chunk.css",
+    "main.js": "/steezyboosts/static/js/main.ce5a93b5.chunk.js",
+    "main.js.map": "/steezyboosts/static/js/main.ce5a93b5.chunk.js.map",
+    "runtime-main.js": "/steezyboosts/static/js/runtime-main.04e7ed5c.js",
+    "runtime-main.js.map": "/steezyboosts/static/js/runtime-main.04e7ed5c.js.map",
+    "static/js/2.d197f0a0.chunk.js": "/steezyboosts/static/js/2.d197f0a0.chunk.js",
+    "static/js/2.d197f0a0.chunk.js.map": "/steezyboosts/static/js/2.d197f0a0.chunk.js.map",
+    "static/js/3.669d951e.chunk.js": "/steezyboosts/static/js/3.669d951e.chunk.js",
+    "static/js/3.669d951e.chunk.js.map": "/steezyboosts/static/js/3.669d951e.chunk.js.map",
+    "index.html": "/steezyboosts/index.html",
+    "static/css/main.131ef960.chunk.css.map": "/steezyboosts/static/css/main.131ef960.chunk.css.map",
+    "static/js/2.d197f0a0.chunk.js.LICENSE.txt": "/steezyboosts/static/js/2.d197f0a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04e7ed5c.js",
+    "static/js/2.d197f0a0.chunk.js",
+    "static/css/main.131ef960.chunk.css",
+    "static/js/main.ce5a93b5.chunk.js"
+  ]
+}

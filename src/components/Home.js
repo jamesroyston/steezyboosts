@@ -34,7 +34,7 @@ const Home = () => {
   return (
     <Container>
       {url && <Player url={url} />}
-      <Cta onClick={() => setUrlHandler()}>bro</Cta>
+      <Cta onClick={() => setUrlHandler()}>GET A BOOST</Cta>
     </Container>
   );
 };

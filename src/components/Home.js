@@ -25,10 +25,12 @@ const Cta = styled.button`
 
 const Home = () => {
   const [url, setUrl] = useState("");
+  const [num, setNum] = useState(0);
   const setUrlHandler = () => {
-    let url = getRandomVideoLink();
+    let url = getRandomVideoLink(num);
     console.log(url);
     setUrl(url);
+    setNum(num + 1);
   };
 
   return (

@@ -5,10 +5,10 @@ import styled from "styled-components";
 const Container = styled.div`
   width: 1133px;
   height: 638px;
-  border: 1px solid red;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 2rem;
 `;
 
 const Player = ({ url }) => {
@@ -16,6 +16,8 @@ const Player = ({ url }) => {
   return (
     <Container>
       <ReactPlayer
+        width="1133px"
+        height="638px"
         onReady={() => setPlaying(true)}
         playing={playing}
         url={url}

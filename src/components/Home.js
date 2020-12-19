@@ -21,6 +21,7 @@ const Cta = styled.button`
   border: none;
   border-radius: 2px;
   color: white;
+  font-size: 20px;
 `;
 
 const Home = () => {
